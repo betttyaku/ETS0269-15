@@ -26,4 +26,4 @@ print(string_swapcase)
 string = "betelhem"
 string_islower =string.islower()
 print(string_islower)
-#output:
+#output:True
