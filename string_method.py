@@ -63,3 +63,40 @@ string = "jkdl"
 string_replace = string.replace("kd","bb")
 print(string_replace)
 
+string = "bethelhem"
+string_split = string.split()
+print(string_split)
+#output :['bethelhem']
+string = "ber" ,"ry"
+string_join =str.join("ber","ry")
+print(string_join)
+#output:rbery
+string = "brtty"
+string_isalpha = string.isalpha()
+print(string_isalpha)
+#output:true
+string = "1234"
+string_isdigit =string.isdigit()
+print(string_isdigit)
+#output :true
+
+string ="berry"
+string_isalnum =string.isalnum()
+print(string_isalnum)
+#output:true
+
+string = "betty"
+string_isspace = string.isspace()
+print(string_isspace)
+#output:false
+string ="bethelhem"
+string_format = string.format()
+print(string_format)
+#output:bethelhem
+
+string = "berry"
+string_encode = string.encode()
+print(string_encode)
+#output:b'berry'
+
+
