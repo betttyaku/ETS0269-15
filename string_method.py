@@ -99,4 +99,22 @@ string_encode = string.encode()
 print(string_encode)
 #output:b'berry'
 
+string = "betty"
+string_strip = string.strip()
+print(string_strip)
+#output:betty
+
+string = "bethelhem"
+string_lstrip = string.lstrip()
+print(string_lstrip)
+#output:bethelhem
+
+string = "betty"
+string_rstrip = string.rstrip()
+print(string_rstrip)
+#output:betty
+
+string = "bethelhem"
+f_string = string #put 'string' to 'f_string'
+print(f_string)
 
