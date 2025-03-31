@@ -1,0 +1,3 @@
+-'append()': Adds an element to the end of the list.
+-'copy()': Returns a shallow copy of the list.
+-'clear()': Removes all elements from the list.

@@ -111,6 +111,7 @@ print(string_lstrip)
 
 string = "betty"
 string_rstrip = string.rstrip()
+
 print(string_rstrip)
 #output:betty
 
