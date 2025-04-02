@@ -24,3 +24,19 @@ my_list =  ["1","2","3","4","5"]
 my_list.index("1")
 print(my_list)
 #output :['1', '2', '3', '4', '5'] 
+
+
+my_list =  ["1","2","3","4","5"]
+my_list.insert(5,"8")
+print(my_list)
+#output :['1', '2', '3', '4', '5', '8']
+
+my_list =  ["1","2","3","4","5"]
+my_list.pop()
+print(my_list)
+#output :['1', '2', '3', '4']
+
+my_list =  ["1","2","3","4","5"]
+my_list.remove("1")
+print(my_list)
+#output : ['2', '3', '4', '5']
