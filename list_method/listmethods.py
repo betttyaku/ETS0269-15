@@ -40,3 +40,13 @@ my_list =  ["1","2","3","4","5"]
 my_list.remove("1")
 print(my_list)
 #output : ['2', '3', '4', '5']
+
+my_list = ["1","2","3","4","5"]
+my_list.reverse()
+print(my_list)
+#output : ['5', '4', '3', '2', '1']
+
+my_list =  ["5","2","4","3","1"]
+my_list.sort()
+print(my_list)
+#output : ['1', '2', '3', '4', '5']

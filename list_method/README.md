@@ -7,3 +7,5 @@
 #insert (): insert an element in spacified element.
 #pop (): removes and returns the element ay specified position.
 #remove(): remove the first occurrance of the element.
+#reverse():reversing the order of the list.
+#sort():sorts the list in ascending order.
